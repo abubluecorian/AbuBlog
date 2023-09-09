@@ -31,8 +31,8 @@ I am an enthusiastic tech explorer, characterized by a courteous and helpful app
 ## Contact Information
 
 - Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
+- LinkedIn: https://www.linkedin.com/in/softwareengineerabu/
+- GitHub: https://github.com/abubluecorian
 
 Feel free to reach out to me for collaboration or any inquiries.
 

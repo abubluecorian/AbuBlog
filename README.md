@@ -30,7 +30,7 @@ I am an enthusiastic tech explorer, characterized by a courteous and helpful app
 
 ## Contact Information
 
-- Email: your.email@example.com
+- Email: abu786.japit@gmail.com
 - LinkedIn: https://www.linkedin.com/in/softwareengineerabu/
 - GitHub: https://github.com/abubluecorian
 
